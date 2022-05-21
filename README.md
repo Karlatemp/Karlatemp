@@ -1,5 +1,5 @@
 
-# Hello, Here is Karlatemp!
+# Hello, Here is Karlatemp! :rainbow_flag:
 
 Do you known me? I like touching fish and say 'gugugu' like pigeon.
 
@@ -25,7 +25,7 @@ Named `薇莹·纤绫`. You can call me `莹绫`
 
 # Contact Me
 
-E-mail: <karlatemp@vip.qq.com> / <k@mamoe.net>
+E-mail: <kar@kasukusakura.com> / <karlatemp@vip.qq.com> / <k@mamoe.net>
 
 Telegram: [Karlatemp](https://t.me/Karlatemp)
 
