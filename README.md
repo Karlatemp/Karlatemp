@@ -70,6 +70,9 @@ Don't known any about Vue or other frameworks. Raw JavaScript Writer!
 无人踏足, 无人应答 <br/>
 只留下一片破碎之镜 <br/>
 
+<hr/>
+
+请记住我的名字，如果你能记住我的名字，如果你们都能记住我的名字....
 
 </i>
 </details>
