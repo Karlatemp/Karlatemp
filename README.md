@@ -33,7 +33,7 @@ Telegram: [Karlatemp](https://t.me/Karlatemp)
 
 # Verification
 
-You can import my [GPG public keys](https://github.com/Karlatemp/Karlatemp.gpg) to verify messages.
+You can import my [GPG public keys](https://github.com/Karlatemp.gpg) to verify messages.
 
 You can also add my public ssh key to your machine if you need my remote help.
 
