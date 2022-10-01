@@ -31,6 +31,27 @@ Telegram: [Karlatemp](https://t.me/Karlatemp)
 
 --------
 
+# Verification
+
+You can import my [GPG public keys](https://github.com/Karlatemp/Karlatemp.gpg) to verify messages.
+
+You can also add my public ssh key to your machine if you need my remote help.
+
+```
+ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBACgsIQkCfqkz4h/+RnoBVVxXEPVo6faz8l61FB8p/MqjGPunx5CDKBYct3j1kw1p4Y6mCAo+Zkw/DtDTQ2xGoWg/QDi3OgVFoIBCGr8n9d9ePWHrLYD9GBZgq3KxPKDPRj43Ih/sTTnO15R15NWDfe6zBslNOQlIHsIhZbcJHTJt6YAow==
+```
+
+## E-Mail Verification:
+
+First, Add KasukuSakura's Certificate
+[KasukuSakure.crt](https://static-assets.kasukusakura.com/certs/KasukuSakura.crt) | [KasukuSakure.crt (GitHub)](https://github.com/KasukuSakura/static-assets/blob/main/certs/KasukuSakura.crt)
+or my Personal Certificate
+[Karlatemp.crt](https://static-assets.kasukusakura.com/certs/Karlatemp.crt) | [Karlatemp.crt (GitHub)](https://github.com/KasukuSakura/static-assets/blob/main/certs/Karlatemp.crt)
+
+After this step, you can verify emails from me.
+
+--------
+
 ```
 ....(\ (\
  c(* ˃ ◡˂ )
